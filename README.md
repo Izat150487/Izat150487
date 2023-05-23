@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **izat.kydyrmysh@gmail.com**
 
-<h3 align="left">Connect with me:</h3> izat.kydyrmysh@gmail.com
+<h3 align="left">Connect with me:</h3>https://wa.me/qr/UUMRCQHSWGSTJ1 
 <p align="left">
 </p>
 
