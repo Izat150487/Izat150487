@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gadgetarium](https://github.com/peaksoft-school/Gadgetarium-m4)
 
-- 🌱 I’m currently learning **GUnit test**
+- 🌱 I’m currently learning **GUnit-test**
 
 - 👨‍💻 All of my projects are available at [Izat_kydyrmyshev(INSTAGRAM)](Izat_kydyrmyshev(INSTAGRAM))
 
