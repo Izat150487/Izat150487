@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **izat.kydyrmysh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-izat.kydyrmysh@gmail.com
+<h3 align="left">Connect with me:</h3> izat.kydyrmysh@gmail.com
 <p align="left">
 </p>
 
